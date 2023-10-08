@@ -1,4 +1,4 @@
-# jittor-galaxy--CGAN
+# jittor-galaxy-CGAN
 
 ## 简介
         
